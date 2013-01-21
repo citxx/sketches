@@ -1,0 +1,146 @@
+table.maintab {
+	width: 100%;
+	border-width: 0;
+	border-spacing: 0;
+	vertical-align: top;
+}
+td.navitab {
+	width: 20%;
+	border-width: 0px;
+	padding-right: 0px;
+	background-color: #BBCCFF;
+	vertical-align: top;
+}
+
+td.texttab {
+	vertical-align: top;
+	border-style: none;
+	border-width: 0;
+	font: Comic Sans MS;
+	pading-top: 0%;
+	padding-left: 1%;
+}
+
+td.title {
+	border-width: 0;
+	border-style: none;
+	text-align: center;
+	background-color: #DDEEFF;
+}
+body {
+	background-color: #EEEEFF;
+}
+span.title {
+	color: #666633;
+	font-size: 230%;
+}
+ol.navi {
+	padding-bottom: 0px;
+	padding-top: 0px;
+	list-style-type: none;
+}
+ol.text {
+	padding-left: 0px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	list-style-type: none;
+}
+li.navi {
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+li.text {
+}
+li.vip {
+	padding-bottom: 2px;
+	padding-top: 2px;
+	list-style-type: circle;
+}
+ol.num {
+	padding-bottom: 2px;
+	padding-top: 2px;
+	list-style-type: decimal;
+}
+p.navi {
+	padding-bottom: 0px;
+	padding-top: 0px;
+	font-size: 150%;
+	font-weight: 900;
+	text-align: center;
+} 
+p.text {
+	vertical-align: top;
+	text-align: justify;
+	font-family: serif;
+}
+p.litltitl {
+	vertical-align: top;
+	text-align: justify;
+	font-size: 120%;
+	font-weight: bold;
+	color: #4400AA; 
+	margin-left: 0px;
+}
+p.titlepage {
+	font-size: 200%;
+	text-align: center;
+}
+p.titlequote {
+	font-size: 150%;
+	text-align: center;
+}
+p.author {
+	margin-top: 2px;
+	text-align: right;
+	font-style: italic;
+}
+p.epi {
+	margin-bottom: 0px;
+	text-align: right;
+	font-style: italic;
+	color: #0000BB;
+}
+img.aesc {
+	align: center;
+	width: 160px;
+	height: 146px;
+}
+td.titleaesc {
+	width: 20%;
+}
+td.titlestado {
+	width: 10%;
+}
+td.titlecap {
+}
+li.active {
+	padding-left: 20px;
+	font-size: 120%;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	font-style: italic;	
+	background-color: #EEEEFF;
+}
+#quote {
+	padding-left: 20px;
+}
+#border {
+	padding-left: 1%; 
+	padding-right: 1%; 
+	border: solid; 
+	border-width: 2px; 
+ 	border-color: #CCCCDD;
+ 	background-color: #E5E5F5;
+}
+#nopad {
+	padding-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+} 
+a:link {
+	color: #007700;	
+}
+a:visited {
+	color: #990000;	
+}
